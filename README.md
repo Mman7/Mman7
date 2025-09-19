@@ -36,7 +36,9 @@
   </p>
 
 <h2 align="center">🚀 Featured Projects</h2>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mman7&repo=notely)](https://github.com/Mman7/Notely)
+
 </br>
 </br>
 
