@@ -36,7 +36,8 @@
   </p>
 
 <h2 align="center">🚀 Featured Projects</h2>
-- [📱 Notely](https://github.com/Mman7/Notely) – Secure notes with AES-256 encryption  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mman7&repo=notely)](https://github.com/Mman7/Notely)
+</br>
 </br>
 
 ---
@@ -44,4 +45,5 @@
 <a href="https://github.com/Mman7/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mman7&display_format=wakatime&layout=compact&langs_count=8&card_width=320&hide=c,cmake,c%2B%2B,swift,kotlin,objective-c" />
 </a>
+</br>
 
