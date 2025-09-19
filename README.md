@@ -7,7 +7,7 @@
 
 </div>
 
-<h4>I passionate about building modern, responsive websites with clean code and great UI.</h4>
+<h4>Passionate about building things that work well, backed by clean and efficient code.</h4>
 
 - 🌱 Learning: React, Typescript ,Dart, Front-end development  
 - 💡 Interests: Mobile apps, Encryption, ReactJS
