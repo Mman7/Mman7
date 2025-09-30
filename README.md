@@ -38,6 +38,7 @@
 <h2 align="center">🚀 Featured Projects</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mman7&repo=notely&show_owner=true)](https://github.com/Mman7/Notely)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mman7&repo=tomato_clock&show_owner=true)](https://github.com/Mman7/tomato_clock)
 
 </br>
