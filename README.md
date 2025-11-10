@@ -8,11 +8,10 @@
 
 </div>
 
-
-<h4>Passionate about building things that work well, backed by clean and efficient code.</h4>
+<h4>Idea,build,enjoy.</h4>
 
 - 🌱 Learning: React, Typescript ,Dart, Front-end development
-- 💡 Interests: Mobile apps, Web Development 
+- 💡 Interests: Mobile apps, Web Development, Game Development
 
 <h2 align="center">🛠️ Languages & Tools</h2>
 
