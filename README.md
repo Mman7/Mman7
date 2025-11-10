@@ -4,13 +4,15 @@
   
 [![General Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/man-eric-2aa13b159)](https://www.linkedin.com/in/man-eric-2aa13b159)
 [![General Badge](https://img.shields.io/badge/youzai0427@gmail.com-0c97fa?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=3A3B3C)](https://mail.google.com/mail/?view=cm&fs=1&to=youzai0427@gmail.com)
+[![Website](https://img.shields.io/badge/-ericman.dev-000?style=flat-square&logo=netlify&logoColor=white)](https://ericman.dev)
 
 </div>
 
+
 <h4>Passionate about building things that work well, backed by clean and efficient code.</h4>
 
-- 🌱 Learning: React, Typescript ,Dart, Front-end development  
-- 💡 Interests: Mobile apps, Encryption, ReactJS
+- 🌱 Learning: React, Typescript ,Dart, Front-end development
+- 💡 Interests: Mobile apps, Web Development 
 
 <h2 align="center">🛠️ Languages & Tools</h2>
 
