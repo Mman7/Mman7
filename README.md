@@ -22,7 +22,6 @@
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f7df1c?style=flat-square&logo=Javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
- 
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-45b8d8?style=flat-square&logo=Flutter&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-1DC0CD?style=flat-square&logo=Dart&logoColor=white" />
@@ -43,7 +42,6 @@
 </br>
 
 <h2 align="center">Tracking</h2>
-  
   <a href="https://github.com/Mman7/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mman7&display_format=wakatime&layout=compact&langs_count=8&card_width=320&hide=c,cmake,c%2B%2B,swift,kotlin,objective-c" />
   </a>
