@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Eric 👋.</h1>
+<h1 align="center">Hi, I'm Eric Man👋.</h1>
 
 <div align="center">
   
@@ -8,7 +8,9 @@
 
 </div>
 
-<h4>Idea,build,enjoy.</h4>
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=435&size=22&pause=1000&width=435&lines=Idea+Build+Enjoy%F0%9F%8E%89;Time+to+fix+bug!" />
+</picture>
 
 - 🌱 Learning: React, Typescript ,Dart, Front-end development
 - 💡 Interests: Mobile apps, Web Development, Game Development
@@ -36,14 +38,14 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mman7&show_owner=true&repo=notely)](https://github.com/Mman7/Notely)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mman7&show_owner=true&repo=tomato_clock)](https://github.com/Mman7/tomato_clock)
+[![Readme Card](https://github-readme-stats-mman7.vercel.app/api/pin/?username=Mman7&show_owner=true&repo=notely)](https://github.com/Mman7/Notely)
+[![Readme Card](https://github-readme-stats-mman7.vercel.app/api/pin/?username=Mman7&show_owner=true&repo=tomato_clock)](https://github.com/Mman7/tomato_clock)
 
 </br>
 
 <h2 align="center">Tracking</h2>
   <a href="https://github.com/Mman7/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mman7&display_format=wakatime&layout=compact&langs_count=8&card_width=320&hide=c,cmake,c%2B%2B,swift,kotlin,objective-c" />
+    <img height=200 align="center" src="https://github-readme-stats-mman7.vercel.app/api/top-langs?username=Mman7&display_format=wakatime&layout=compact&langs_count=8&card_width=320&hide=c,cmake,c%2B%2B,swift,kotlin,objective-c" />
   </a>
 </br>
 
