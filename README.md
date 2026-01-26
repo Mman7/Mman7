@@ -40,6 +40,8 @@
 
 [![Readme Card](https://github-readme-stats-mman7.vercel.app/api/pin/?username=Mman7&show_owner=true&repo=notely)](https://github.com/Mman7/Notely)
 [![Readme Card](https://github-readme-stats-mman7.vercel.app/api/pin/?username=Mman7&show_owner=true&repo=tomato_clock)](https://github.com/Mman7/tomato_clock)
+[![Readme Card](https://github-readme-stats-mman7.vercel.app/api/pin/?username=Mman7&show_owner=true&repo=programmer-quiz)](https://github.com/Mman7/programmer-quiz)
+[![Readme Card](https://github-readme-stats-mman7.vercel.app/api/pin/?username=Mman7&show_owner=true&repo=pokemon_index)](https://github.com/Mman7/pokemon_index)
 
 </br>
 
