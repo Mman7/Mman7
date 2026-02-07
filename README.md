@@ -7,13 +7,12 @@
 [![Website](https://img.shields.io/badge/-ericman.dev-000?style=flat-square&logo=netlify&logoColor=white)](https://ericman.dev)
 
 </div>
-
 <picture>
   <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=435&size=22&pause=1000&width=435&lines=Idea+Build+Enjoy%F0%9F%8E%89;Time+to+fix+bug!" />
 </picture>
 
-- 🌱 Learning: React, Typescript ,Dart, Front-end development
-- 💡 Interests: Mobile apps, Web Development, Game Development
+#####  -  Learning: React, Typescript ,Dart, Front-end development -  Learning: React, Typescript ,Dart, Front-end development
+##### -  Interests: Mobile apps, Web Development, Game Development,Full Stack Development
 
 <h2 align="center">🛠️ Languages & Tools</h2>
 <p>
