@@ -11,8 +11,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=435&size=22&pause=1000&width=435&lines=Idea+Build+Enjoy%F0%9F%8E%89;Time+to+fix+bug!" />
 </picture>
 
-####  -  Learning: React, Typescript ,Dart, Web Development
-#### Mobile apps, Web Development, Game Development,Full Stack Development
+### 📚 Learning  
+![Backend Development](https://img.shields.io/badge/-Backend%20Development-43853d?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Web Development](https://img.shields.io/badge/-Web%20Development-000000?style=flat-square&logo=google-chrome&logoColor=white)
+
+#### Mobile apps, Web Development, Full Stack Development
 
 <h2 align="center">🛠️ Languages & Tools</h2>
 <p>
